@@ -1,0 +1,50 @@
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :7
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :7
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :7
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :0
+ID-ul clientului :1
+ID- ul produsului :2
+Cantitatea produsului :1
+******************************
+ID- ul comenzii :1
+ID-ul clientului :1
+ID- ul produsului :3
+Cantitatea produsului :1
+******************************
